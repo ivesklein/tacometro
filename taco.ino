@@ -1,6 +1,3 @@
-// Copyright (c) Sandeep Mistry. All rights reserved.
-// Licensed under the MIT license. See LICENSE file in the project root for full license information.
-
 #include <CAN.h> //0.3.1 - the OBD2 library depends on the CAN library
 #include <OBD2.h> //0.0.1
 #include <Servo.h> //1.2.1
